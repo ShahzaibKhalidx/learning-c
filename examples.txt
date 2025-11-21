@@ -1,0 +1,9 @@
+SYSCALLS:
+
+
+Example: using the syscalls seen so far, write a program that 
+takes a file path from the command line and prints the file 
+size in bytes
+
+Example: Write a program to list the content of current directory using syscalls
+
