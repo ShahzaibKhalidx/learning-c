@@ -2,7 +2,7 @@
 #include <stdbool.h>
 
 //check age and citizen
-/*int main(){
+int main(){
     int age = 50;
     bool isCitizen = false;
 
@@ -17,27 +17,27 @@
     else{
         printf("Not old enough!\n");
     }
-}*/
+}
 
-/*int main(){
+int main(){
     int countdown = 3;
     while( countdown > 0){
         printf("countdown, %d\n", countdown);
         countdown--;
     }
     printf("Happy new year!\n");
-}*/
+}
 
-/*int main(){
+int main(){
     int i = 10;
     do {
         printf("%d\n", i);
         i++;
     }
     while(i < 5);
-}*/
+}
 
-/*int main(){
+int main(){
     int dice = 1;
 
     while(dice <= 6){
@@ -49,9 +49,9 @@
         }
     }
     dice++;
-}*/
+}
 
-/*int main(){
+int main(){
     //sum of first 4 numbers
     int sum = 0;
     int i;
@@ -59,10 +59,10 @@
         sum += i;
     }
     printf("Sum of 1-10 is : ... %d\n", sum);
-}*/
+}
 
 //nested loops
-/*int main(){
+int main(){
     int i;
     int j;
 
@@ -72,7 +72,7 @@
             printf("inner %d\n", j);
         }
     }
-}*/
+}
 
 
 //multiplication table
